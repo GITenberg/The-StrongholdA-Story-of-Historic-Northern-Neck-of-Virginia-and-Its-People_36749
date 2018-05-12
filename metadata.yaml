@@ -1,0 +1,25 @@
+_repo: The-StrongholdA-Story-of-Historic-Northern-Neck-of-Virginia-and-Its-People_36749
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36749-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Haynie, Miriam
+    alias: Haynie, Miriam Williams
+    gutenberg_agent_id: '38452'
+    url: http://www.gutenberg.org/2009/agents/38452
+description: ''
+gutenberg_issued: '2011-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36749'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Northern Neck (Va.)'
+- !lcc 'F206'
+title: 'The Stronghold: A Story of Historic Northern Neck of Virginia and Its People'
+url: http://www.gutenberg.org/ebooks/36749
